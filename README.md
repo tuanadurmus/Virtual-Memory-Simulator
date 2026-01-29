@@ -69,5 +69,3 @@ behavior of a virtual memory subsystem at a conceptual level. My specific contri
 ---
 
 
-├─ vm.c       # Virtual memory simulator implementation
-└─ README.md
